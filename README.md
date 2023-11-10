@@ -17,18 +17,18 @@ X Education wants to select the most promising leads, i.e., the leads that are m
 ## Solution:
 For this case study, we're going to use several classification models to predict whether the lead is going to be quantified as a hot lead. The steps involved in this case study are listed below:
 
-Data Loading
-Data Exploration a.k.a Exploratory Data Analysis
-Preprocessing
-Feature Engineering
-Outlier Analysis
-Model Building
-Model Performance Benchmarking
-Model Performance Evaluation
-Cross Validation + Hyperparameter Tuning
-Model Diagnosis Using Probability Calibration, ROC AUC Curve, Precision-Recall Curve
+1. Data Loading
+2. Exploratory Data Analysis
+3. Preprocessing
+4. Feature Engineering
+5. Outlier Analysis
+6. Model Building
+7. Model Performance Benchmarking
+8. Model Performance Evaluation
+9. Cross Validation + Hyperparameter Tuning
+10. Model Diagnosis Using Probability Calibration, ROC-AUC Curve, and Precision-Recall Curve
 
 ## Notebooks:
-Exploratory Data Analysis + Feature Engineering + Outlier Analysis Notebook
-Lead Scoring Model Diagnosis Notebook
-Final Lead Scoring Model Notebook
+* Exploratory Data Analysis + Feature Engineering + Outlier Analysis Notebook
+* Lead Scoring Model Diagnosis Notebook
+* Final Lead Scoring Model Notebook
